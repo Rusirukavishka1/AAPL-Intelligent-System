@@ -1,0 +1,12 @@
+check,passed
+unique_sorted_dates,True
+fit_precedes_target,True
+features_precede_target,True
+selection_precedes_target,True
+origin_equals_latest_input,True
+meta_selection_precedes_test,True
+finite_predictions,True
+same_test_targets,True
+frozen_parameters,True
+causal_features_prefix_invariant,True
+all_predeclared_seeds_reported,True

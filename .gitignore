@@ -1,0 +1,31 @@
+# Python environments and generated files
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+# Private uploads and local artifacts
+uploads/
+private_reports/
+logs/
+*.log
+.ipynb_checkpoints/
+*.zip
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
